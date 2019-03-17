@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Lista" id="E01ECB66-1A4D-DDAE-05CA-493F9DDFFB66" version="3.5">
+<createdBy>kozelski</createdBy>
+<createdTime>2019-03-12 17:14:57 UTC</createdTime>
+<ownerDesignName>Lista</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>E01ECB66-1A4D-DDAE-05CA-493F9DDFFB66</designId>
+</OSDM_Design>
